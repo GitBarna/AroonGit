@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @BernieStoryStudio
-- 👀 I’m interested in Developing and making web platforms
-- 🌱 I’m currently learning python
-- 📫 You can contact me here: info@berniestory.org
-- ⚡ Fun fact: I made over 1000 websites with diffrerent things
-
-  ✨ **Just call me Bernie** ✨
+![cover-rounded](https://github.com/user-attachments/assets/594871ac-f927-4436-a324-1d8693003be7)
